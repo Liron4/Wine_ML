@@ -7,7 +7,7 @@ In this project, my college friends and I explored various machine-learning tech
 ## Highlights
 
 - **Supervised Algorithms**: Tested multiple algorithms.
-- **Feature Engineering**: Created new features to boost performance.
+- **Feature Engineering**: Experimented with Scaling methods and Feature Selection.
 - **Cross-Validation**: Used different methods for robust evaluation.
 
 ## Interactive Notebook
